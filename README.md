@@ -106,11 +106,3 @@ docker compose exec api pytest
 | API_KEY     | API キー                        | -            | ○    |
 | DEBUG       | デバッグモード                  | `False`      | ×    |
 | LOG_LEVEL   | ログレベル                      | `INFO`       | ×    |
-
-## ライセンス
-
-MIT
-
-## 作者
-
-example
